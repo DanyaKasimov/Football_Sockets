@@ -1,4 +1,4 @@
-<h1 style="color="red;">Football</h1>
+<h1> <span color="red">Football </span></h1>
 <br>
 Многопользовательская игра, позволяющая двум игрокам играть вместе в футболл
 <br>
