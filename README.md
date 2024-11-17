@@ -7,3 +7,5 @@
   <li>Java Swing</li>
   <li>Java Sockets</li>
 </ul>
+
+Дата написания кода: Декабрь 2023 года
